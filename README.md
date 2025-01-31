@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 If you would like to contribute to this extension, feel free to fork the repository, make changes, and submit a pull request. Please ensure that all code follows Magento 2’s coding standards and that tests are included for any new features.
 
 ## Author
-Developed by **[Harh Bhinsara]**
+Developed by **Harh Bhinsara**
